@@ -1,0 +1,61 @@
+
+     body {
+         background-color: peachpuff;
+     }
+     /* h1 heading tag */
+    h1 {
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 15px;
+      /* Change the size of your font to 60 pixels high. */
+      font-size: 60px;
+      /* This will color the heading font white. */
+      color: white;
+      /* Align the text to the center of its enclosing element (e.g. div). */
+      text-align: center;
+      /* Underline the text. */
+      text-decoration: underline;
+      /* The background of the heading element will now be black. */
+      background-color: black;
+    }
+img {margin-left: auto;
+margin-right: auto;
+display: block;}
+
+h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    text-align: center;
+}
+
+  
+p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+  li {
+      text-align: center;
+      font-size: 35px;
+      border-style: solid; 
+      border-width: 5px;
+      border-inline-end-width: 10pc;
+      border-inline-start-width: 10pc;
+      list-style-position: outside;
+      background-color: coral;
+      
+  }
+   h3 {
+       text-align: center; 
+       font-size: 35px;
+       font-variant: initial;
+
+   }
+  iframe {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  }
+  hr {
+      border-color: black;
+  }
